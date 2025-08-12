@@ -1,0 +1,11 @@
+.content{
+    max-width: 1050px;
+    width: 100%;
+    /* margin: 0 auto; */
+    margin: 50px auto;
+}
+
+.content img{
+    max-width: 1050px;
+    width: 100%;
+}
